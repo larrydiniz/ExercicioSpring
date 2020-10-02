@@ -1,7 +1,7 @@
 # ExercicioSpring
 Exercício proposto para aplicar os conceitos de Spring Data e Spring Security.
 
-## Enunciado
+## Atividade proposta
 Vamos desenvolver uma aplicação para uma empresa, para isso será necessário criar um banco de dados que atenda as seguintes necessidades:
 
 - Um funcionário pode cadastrar novos clientes e pedidos para clientes,
